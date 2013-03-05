@@ -7,13 +7,10 @@ To translate text into Googlerese, we take any message and replace each English 
 
 For example (and here is a hint!), our awesome translation algorithm includes the following three mappings: 'a' -> 'y', 'o' -> 'e', and 'z' -> 'q'. This means that "a zoo" will become "y qee".
 
-Input
-ejp mysljylc kd kxveddknmc re jsicpdrysi
-rbcpc ypc rtcsra dkh wyfrepkym veddknkmkrkcd
-de kr kd eoya kw aej tysr re ujdr lkgc jv
+Input:
+
+ejp mysljylc kd kxveddknmc re jsicpdrysi rbcpc ypc rtcsra dkh wyfrepkym veddknkmkrkcd de kr kd eoya kw aej tysr re ujdr lkgc jv
 
 
-Output
-Case #1: our language is impossible to understand
-Case #2: there are twenty six factorial possibilities
-Case #3: so it is okay if you want to just give up
+Output:
+ our language is impossible to understand there are twenty six factorial possibilities so it is okay if you want to just give up
